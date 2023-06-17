@@ -1,0 +1,9 @@
+header{
+
+  width: 100%;
+  height: 25vh;
+  background-image: url(../../assets/fastfood.avif);
+  background-repeat: no-repeat;
+  background-size:100%;
+  background-position: center center;
+}
